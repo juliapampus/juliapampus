@@ -2,7 +2,7 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '* */2 * * *'
+    - cron: '*/120 * * * *'
   workflow_dispatch:
 
 jobs:
