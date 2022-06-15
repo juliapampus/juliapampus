@@ -57,10 +57,10 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🎉 Merged PR [#1470](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1470) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. ❗️ Closed issue [#1466](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1466) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🗣 Commented on [#1474](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1474) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. ❌ Closed PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 💪 Opened PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#1470](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1470) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. ❗️ Closed issue [#1466](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1466) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 5. 🗣 Commented on [#1474](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1474) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
