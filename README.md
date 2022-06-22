@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1122](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1122) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🎉 Merged PR [#1448](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1448) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. ❗️ Reopened issue [#1306](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1306) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. ❌ Closed PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. 💪 Opened PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 💪 Opened PR [#1516](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1516) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. ❗️ Closed issue [#1122](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1122) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#1448](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1448) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. ❗️ Reopened issue [#1306](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1306) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. ❌ Closed PR [#1488](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1488) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
