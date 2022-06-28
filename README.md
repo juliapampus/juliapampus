@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1554](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1554) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🎉 Merged PR [#1550](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1550) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. 🎉 Merged PR [#1529](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1529) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🎉 Merged PR [#1530](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1530) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. 🎉 Merged PR [#1532](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1532) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🎉 Merged PR [#1557](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1557) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 🎉 Merged PR [#1556](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1556) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#1555](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1555) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 💪 Opened PR [#1557](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1557) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. 🎉 Merged PR [#1551](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1551) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
