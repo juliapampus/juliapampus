@@ -57,10 +57,10 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1582](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1582) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🗣 Commented on [#1541](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1541) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. ❗️ Opened issue [#1581](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1581) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🗣 Commented on [#1541](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1541) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 💪 Opened PR [#1586](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1586) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 💪 Opened PR [#1582](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1582) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🗣 Commented on [#1541](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1541) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. ❗️ Opened issue [#1581](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1581) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 5. 🗣 Commented on [#1541](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1541) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
