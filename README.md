@@ -57,9 +57,9 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1695](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1695) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🎉 Merged PR [#1667](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1667) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. 🗣 Commented on [#1667](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1667) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🗣 Commented on [#1607](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1607) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 💪 Opened PR [#1695](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1695) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#1667](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1667) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 4. 🗣 Commented on [#1667](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1667) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 5. 🗣 Commented on [#1667](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1667) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
