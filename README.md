@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1737](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1737) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. ❌ Closed PR [#38](https://github.com/FraunhoferISST/EclipseDataspaceConnector/pull/38) in [FraunhoferISST/EclipseDataspaceConnector](https://github.com/FraunhoferISST/EclipseDataspaceConnector)
-3. 💪 Opened PR [#38](https://github.com/FraunhoferISST/EclipseDataspaceConnector/pull/38) in [FraunhoferISST/EclipseDataspaceConnector](https://github.com/FraunhoferISST/EclipseDataspaceConnector)
-4. ❗️ Closed issue [#1610](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1610) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. 🎉 Merged PR [#1715](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1715) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. ❗️ Closed issue [#1719](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1719) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 🎉 Merged PR [#1728](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1728) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#1737](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1737) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 💪 Opened PR [#1737](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1737) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. ❌ Closed PR [#38](https://github.com/FraunhoferISST/EclipseDataspaceConnector/pull/38) in [FraunhoferISST/EclipseDataspaceConnector](https://github.com/FraunhoferISST/EclipseDataspaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
