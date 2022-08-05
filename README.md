@@ -57,10 +57,10 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1790](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1790) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. ❗️ Closed issue [#1780](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1780) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. 🎉 Merged PR [#1788](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1788) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🗣 Commented on [#1781](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1781) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🗣 Commented on [#1790](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1790) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 💪 Opened PR [#1790](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1790) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. ❗️ Closed issue [#1780](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1780) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 🎉 Merged PR [#1788](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1788) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 5. 🗣 Commented on [#1781](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1781) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
