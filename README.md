@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace/pull/72) in [eclipse-dataspaceconnector/MinimumViableDataspace](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace)
-2. 🗣 Commented on [#1870](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1870) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. ❌ Closed PR [#3](https://github.com/juliapampus/edc-docs/pull/3) in [juliapampus/edc-docs](https://github.com/juliapampus/edc-docs)
-4. 🎉 Merged PR [#2](https://github.com/juliapampus/edc-docs/pull/2) in [juliapampus/edc-docs](https://github.com/juliapampus/edc-docs)
-5. 💪 Opened PR [#2](https://github.com/juliapampus/edc-docs/pull/2) in [juliapampus/edc-docs](https://github.com/juliapampus/edc-docs)
+1. 🎉 Merged PR [#72](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace/pull/72) in [eclipse-dataspaceconnector/MinimumViableDataspace](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace)
+2. 💪 Opened PR [#72](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace/pull/72) in [eclipse-dataspaceconnector/MinimumViableDataspace](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace)
+3. 🗣 Commented on [#1870](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1870) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. ❌ Closed PR [#3](https://github.com/juliapampus/edc-docs/pull/3) in [juliapampus/edc-docs](https://github.com/juliapampus/edc-docs)
+5. 🎉 Merged PR [#2](https://github.com/juliapampus/edc-docs/pull/2) in [juliapampus/edc-docs](https://github.com/juliapampus/edc-docs)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
