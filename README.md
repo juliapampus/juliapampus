@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/eclipse-dataspaceconnector/RegistrationService/pull/34) in [eclipse-dataspaceconnector/RegistrationService](https://github.com/eclipse-dataspaceconnector/RegistrationService)
-2. 🎉 Merged PR [#1](https://github.com/eclipse-dataspaceconnector/FederatedCatalog/pull/1) in [eclipse-dataspaceconnector/FederatedCatalog](https://github.com/eclipse-dataspaceconnector/FederatedCatalog)
-3. 🎉 Merged PR [#8](https://github.com/eclipse-dataspaceconnector/DataDashboard/pull/8) in [eclipse-dataspaceconnector/DataDashboard](https://github.com/eclipse-dataspaceconnector/DataDashboard)
-4. 🎉 Merged PR [#30](https://github.com/eclipse-dataspaceconnector/IdentityHub/pull/30) in [eclipse-dataspaceconnector/IdentityHub](https://github.com/eclipse-dataspaceconnector/IdentityHub)
-5. 🗣 Commented on [#1](https://github.com/eclipse-dataspaceconnector/docs/issues/1) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+1. 🎉 Merged PR [#1](https://github.com/eclipse-dataspaceconnector/docs/pull/1) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+2. 🎉 Merged PR [#34](https://github.com/eclipse-dataspaceconnector/RegistrationService/pull/34) in [eclipse-dataspaceconnector/RegistrationService](https://github.com/eclipse-dataspaceconnector/RegistrationService)
+3. 🎉 Merged PR [#1](https://github.com/eclipse-dataspaceconnector/FederatedCatalog/pull/1) in [eclipse-dataspaceconnector/FederatedCatalog](https://github.com/eclipse-dataspaceconnector/FederatedCatalog)
+4. 🎉 Merged PR [#8](https://github.com/eclipse-dataspaceconnector/DataDashboard/pull/8) in [eclipse-dataspaceconnector/DataDashboard](https://github.com/eclipse-dataspaceconnector/DataDashboard)
+5. 🎉 Merged PR [#30](https://github.com/eclipse-dataspaceconnector/IdentityHub/pull/30) in [eclipse-dataspaceconnector/IdentityHub](https://github.com/eclipse-dataspaceconnector/IdentityHub)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
