@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1983](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1983) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. ❗️ Closed issue [#1600](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1600) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. 🎉 Merged PR [#5](https://github.com/eclipse-dataspaceconnector/docs/pull/5) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-4. 🎉 Merged PR [#81](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace/pull/81) in [eclipse-dataspaceconnector/MinimumViableDataspace](https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace)
-5. 🎉 Merged PR [#1961](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/1961) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🗣 Commented on [#1994](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1994) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 🗣 Commented on [#1994](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1994) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🗣 Commented on [#1997](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1997) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 🗣 Commented on [#1997](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1997) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. 🗣 Commented on [#1983](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1983) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
