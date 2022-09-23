@@ -57,10 +57,10 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/eclipse-dataspaceconnector/GradlePlugins/pull/5) in [eclipse-dataspaceconnector/GradlePlugins](https://github.com/eclipse-dataspaceconnector/GradlePlugins)
-2. 🗣 Commented on [#1994](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1994) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🗣 Commented on [#2002](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/2002) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 🎉 Merged PR [#5](https://github.com/eclipse-dataspaceconnector/GradlePlugins/pull/5) in [eclipse-dataspaceconnector/GradlePlugins](https://github.com/eclipse-dataspaceconnector/GradlePlugins)
 3. 🗣 Commented on [#1994](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1994) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🗣 Commented on [#1997](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1997) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 🗣 Commented on [#1994](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1994) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 5. 🗣 Commented on [#1997](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1997) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
