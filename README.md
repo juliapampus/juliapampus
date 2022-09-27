@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/juliapampus/EDC/pull/4) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
-2. 🗣 Commented on [#1991](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1991) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-3. 🎉 Merged PR [#6](https://github.com/eclipse-dataspaceconnector/docs/pull/6) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-4. 🎉 Merged PR [#2014](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2014) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. 🎉 Merged PR [#2013](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2013) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 💪 Opened PR [#2019](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2019) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. 💪 Opened PR [#4](https://github.com/juliapampus/EDC/pull/4) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
+3. 🗣 Commented on [#1991](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1991) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 🎉 Merged PR [#6](https://github.com/eclipse-dataspaceconnector/docs/pull/6) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+5. 🎉 Merged PR [#2014](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2014) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
