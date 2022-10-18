@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2079](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2079) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-2. 🎉 Merged PR [#14](https://github.com/eclipse-dataspaceconnector/docs/pull/14) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-3. ❌ Closed PR [#5](https://github.com/juliapampus/EDC/pull/5) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
-4. 💪 Opened PR [#2100](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2100) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. ❗️ Closed issue [#1956](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/1956) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 💪 Opened PR [#2110](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2110) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+2. ❗️ Opened issue [#2109](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/2109) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+3. 🎉 Merged PR [#2079](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2079) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+4. 🎉 Merged PR [#14](https://github.com/eclipse-dataspaceconnector/docs/pull/14) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+5. ❌ Closed PR [#5](https://github.com/juliapampus/EDC/pull/5) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
