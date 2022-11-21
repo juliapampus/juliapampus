@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/eclipse-dataspaceconnector/docs/pull/19) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-2. 🗣 Commented on [#19](https://github.com/eclipse-dataspaceconnector/docs/issues/19) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-3. 🎉 Merged PR [#2208](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2208) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🎉 Merged PR [#18](https://github.com/eclipse-dataspaceconnector/docs/pull/18) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
-5. 🎉 Merged PR [#2190](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2190) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+1. 🎉 Merged PR [#20](https://github.com/eclipse-dataspaceconnector/docs/pull/20) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+2. 🎉 Merged PR [#19](https://github.com/eclipse-dataspaceconnector/docs/pull/19) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+3. 🗣 Commented on [#19](https://github.com/eclipse-dataspaceconnector/docs/issues/19) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+4. 🎉 Merged PR [#2208](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2208) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. 🎉 Merged PR [#18](https://github.com/eclipse-dataspaceconnector/docs/pull/18) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
