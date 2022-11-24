@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/juliapampus/EDC/issues/19) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
-2. 💪 Opened PR [#18](https://github.com/juliapampus/EDC/pull/18) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
-3. 🎉 Merged PR [#2216](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2216) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-4. 🗣 Commented on [#2211](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/2211) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
-5. 🎉 Merged PR [#20](https://github.com/eclipse-dataspaceconnector/docs/pull/20) in [eclipse-dataspaceconnector/docs](https://github.com/eclipse-dataspaceconnector/docs)
+1. 💪 Opened PR [#32](https://github.com/juliapampus/EDC/pull/32) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
+2. ❗️ Opened issue [#19](https://github.com/juliapampus/EDC/issues/19) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
+3. 💪 Opened PR [#18](https://github.com/juliapampus/EDC/pull/18) in [juliapampus/EDC](https://github.com/juliapampus/EDC)
+4. 🎉 Merged PR [#2216](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/pull/2216) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+5. 🗣 Commented on [#2211](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/issues/2211) in [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
