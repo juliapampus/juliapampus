@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/eclipse-edc/docs/pull/25) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 🎉 Merged PR [#8](https://github.com/Metaform/edc-protocols/pull/8) in [Metaform/edc-protocols](https://github.com/Metaform/edc-protocols)
-3. ❌ Closed PR [#6](https://github.com/eclipse-edc/Collateral/pull/6) in [eclipse-edc/Collateral](https://github.com/eclipse-edc/Collateral)
-4. 💪 Opened PR [#6](https://github.com/eclipse-edc/Collateral/pull/6) in [eclipse-edc/Collateral](https://github.com/eclipse-edc/Collateral)
-5. ❌ Closed PR [#77](https://github.com/International-Data-Spaces-Association/IDS-G/pull/77) in [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G)
+1. 💪 Opened PR [#105](https://github.com/eclipse-edc/MinimumViableDataspace/pull/105) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+2. 🎉 Merged PR [#25](https://github.com/eclipse-edc/docs/pull/25) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+3. 🎉 Merged PR [#8](https://github.com/Metaform/edc-protocols/pull/8) in [Metaform/edc-protocols](https://github.com/Metaform/edc-protocols)
+4. ❌ Closed PR [#6](https://github.com/eclipse-edc/Collateral/pull/6) in [eclipse-edc/Collateral](https://github.com/eclipse-edc/Collateral)
+5. 💪 Opened PR [#6](https://github.com/eclipse-edc/Collateral/pull/6) in [eclipse-edc/Collateral](https://github.com/eclipse-edc/Collateral)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
