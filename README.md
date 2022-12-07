@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2296](https://github.com/eclipse-edc/Connector/issues/2296) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 💪 Opened PR [#66](https://github.com/eclipse-edc/IdentityHub/pull/66) in [eclipse-edc/IdentityHub](https://github.com/eclipse-edc/IdentityHub)
-3. 💪 Opened PR [#26](https://github.com/eclipse-edc/docs/pull/26) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-4. 💪 Opened PR [#61](https://github.com/eclipse-edc/GradlePlugins/pull/61) in [eclipse-edc/GradlePlugins](https://github.com/eclipse-edc/GradlePlugins)
-5. 💪 Opened PR [#22](https://github.com/eclipse-edc/FederatedCatalog/pull/22) in [eclipse-edc/FederatedCatalog](https://github.com/eclipse-edc/FederatedCatalog)
+1. 🎉 Merged PR [#2304](https://github.com/eclipse-edc/Connector/pull/2304) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. 🗣 Commented on [#2296](https://github.com/eclipse-edc/Connector/issues/2296) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 💪 Opened PR [#66](https://github.com/eclipse-edc/IdentityHub/pull/66) in [eclipse-edc/IdentityHub](https://github.com/eclipse-edc/IdentityHub)
+4. 💪 Opened PR [#26](https://github.com/eclipse-edc/docs/pull/26) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+5. 💪 Opened PR [#61](https://github.com/eclipse-edc/GradlePlugins/pull/61) in [eclipse-edc/GradlePlugins](https://github.com/eclipse-edc/GradlePlugins)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
