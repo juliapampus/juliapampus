@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2211](https://github.com/eclipse-edc/Connector/issues/2211) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 🎉 Merged PR [#2246](https://github.com/eclipse-edc/Connector/pull/2246) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❌ Closed PR [#65](https://github.com/FraunhoferISST/edc-connector/pull/65) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
-4. ❌ Closed PR [#66](https://github.com/FraunhoferISST/edc-connector/pull/66) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
-5. ❌ Closed PR [#72](https://github.com/FraunhoferISST/edc-connector/pull/72) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
+1. 💪 Opened PR [#2339](https://github.com/eclipse-edc/Connector/pull/2339) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. ❗️ Closed issue [#2337](https://github.com/eclipse-edc/Connector/issues/2337) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 🎉 Merged PR [#2338](https://github.com/eclipse-edc/Connector/pull/2338) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. 💪 Opened PR [#2338](https://github.com/eclipse-edc/Connector/pull/2338) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. ❗️ Opened issue [#2337](https://github.com/eclipse-edc/Connector/issues/2337) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
