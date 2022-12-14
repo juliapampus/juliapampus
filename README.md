@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/eclipse-edc/docs/pull/29) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. ❗️ Closed issue [#109](https://github.com/eclipse-edc/MinimumViableDataspace/issues/109) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-3. 🎉 Merged PR [#110](https://github.com/eclipse-edc/MinimumViableDataspace/pull/110) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-4. 💪 Opened PR [#110](https://github.com/eclipse-edc/MinimumViableDataspace/pull/110) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-5. ❗️ Opened issue [#109](https://github.com/eclipse-edc/MinimumViableDataspace/issues/109) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+1. ❗️ Closed issue [#2287](https://github.com/eclipse-edc/Connector/issues/2287) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. 🎉 Merged PR [#2339](https://github.com/eclipse-edc/Connector/pull/2339) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 🗣 Commented on [#2339](https://github.com/eclipse-edc/Connector/issues/2339) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. 🎉 Merged PR [#29](https://github.com/eclipse-edc/docs/pull/29) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+5. ❗️ Closed issue [#109](https://github.com/eclipse-edc/MinimumViableDataspace/issues/109) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
