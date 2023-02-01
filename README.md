@@ -57,10 +57,10 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2421](https://github.com/eclipse-edc/Connector/issues/2421) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 🗣 Commented on [#2421](https://github.com/eclipse-edc/Connector/issues/2421) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. 🎉 Merged PR [#37](https://github.com/eclipse-edc/docs/pull/37) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-4. 🗣 Commented on [#2404](https://github.com/eclipse-edc/Connector/issues/2404) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. ❗️ Closed issue [#2450](https://github.com/eclipse-edc/Connector/issues/2450) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. ❗️ Closed issue [#2419](https://github.com/eclipse-edc/Connector/issues/2419) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. ❗️ Closed issue [#2404](https://github.com/eclipse-edc/Connector/issues/2404) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. 🎉 Merged PR [#2421](https://github.com/eclipse-edc/Connector/pull/2421) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 5. 🗣 Commented on [#2421](https://github.com/eclipse-edc/Connector/issues/2421) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
