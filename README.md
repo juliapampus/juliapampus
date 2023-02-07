@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#35](https://github.com/eclipse-edc/docs/pull/35) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 🗣 Commented on [#2459](https://github.com/eclipse-edc/Connector/issues/2459) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❗️ Closed issue [#2343](https://github.com/eclipse-edc/Connector/issues/2343) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 🎉 Merged PR [#2459](https://github.com/eclipse-edc/Connector/pull/2459) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. ❗️ Closed issue [#2450](https://github.com/eclipse-edc/Connector/issues/2450) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. ❌ Reopened PR [#2377](https://github.com/eclipse-edc/Connector/pull/2377) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. ❌ Reopened PR [#35](https://github.com/eclipse-edc/docs/pull/35) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+3. 🗣 Commented on [#2459](https://github.com/eclipse-edc/Connector/issues/2459) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. ❗️ Closed issue [#2343](https://github.com/eclipse-edc/Connector/issues/2343) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. 🎉 Merged PR [#2459](https://github.com/eclipse-edc/Connector/pull/2459) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
