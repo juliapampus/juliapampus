@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/eclipse-edc/docs/pull/45) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 🎉 Merged PR [#44](https://github.com/eclipse-edc/docs/pull/44) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-3. 💪 Opened PR [#2519](https://github.com/eclipse-edc/Connector/pull/2519) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 💪 Opened PR [#73](https://github.com/FraunhoferISST/edc-connector/pull/73) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
-5. 🎉 Merged PR [#2448](https://github.com/eclipse-edc/Connector/pull/2448) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. 💪 Opened PR [#58](https://github.com/International-Data-Spaces-Association/ids-specification/pull/58) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🎉 Merged PR [#45](https://github.com/eclipse-edc/docs/pull/45) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+3. 🎉 Merged PR [#44](https://github.com/eclipse-edc/docs/pull/44) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+4. 💪 Opened PR [#2519](https://github.com/eclipse-edc/Connector/pull/2519) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. 💪 Opened PR [#73](https://github.com/FraunhoferISST/edc-connector/pull/73) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
