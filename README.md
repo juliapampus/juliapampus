@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/International-Data-Spaces-Association/ids-specification/issues/64) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🗣 Commented on [#64](https://github.com/International-Data-Spaces-Association/ids-specification/issues/64) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 💪 Opened PR [#68](https://github.com/International-Data-Spaces-Association/ids-specification/pull/68) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🎉 Merged PR [#47](https://github.com/eclipse-edc/docs/pull/47) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-5. 💪 Opened PR [#2575](https://github.com/eclipse-edc/Connector/pull/2575) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. ❗️ Closed issue [#28](https://github.com/International-Data-Spaces-Association/ids-specification/issues/28) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🎉 Merged PR [#68](https://github.com/International-Data-Spaces-Association/ids-specification/pull/68) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🗣 Commented on [#64](https://github.com/International-Data-Spaces-Association/ids-specification/issues/64) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#64](https://github.com/International-Data-Spaces-Association/ids-specification/issues/64) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 💪 Opened PR [#68](https://github.com/International-Data-Spaces-Association/ids-specification/pull/68) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
