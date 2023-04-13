@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/eclipse-edc/Samples/issues/40) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-2. 💪 Opened PR [#2709](https://github.com/eclipse-edc/Connector/pull/2709) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❌ Reopened PR [#30](https://github.com/eclipse-edc/Samples/pull/30) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-4. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-5. ❌ Reopened PR [#36](https://github.com/eclipse-edc/Samples/pull/36) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+1. ❗️ Closed issue [#1382](https://github.com/eclipse-edc/Connector/issues/1382) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. 🗣 Commented on [#40](https://github.com/eclipse-edc/Samples/issues/40) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+3. 💪 Opened PR [#2709](https://github.com/eclipse-edc/Connector/pull/2709) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. ❌ Reopened PR [#30](https://github.com/eclipse-edc/Samples/pull/30) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+5. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
