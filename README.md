@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2922](https://github.com/eclipse-edc/Connector/issues/2922) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 🎉 Merged PR [#2590](https://github.com/eclipse-edc/Connector/pull/2590) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. 💪 Opened PR [#74](https://github.com/FraunhoferISST/edc-connector/pull/74) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
-4. ❗️ Closed issue [#2559](https://github.com/eclipse-edc/Connector/issues/2559) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. 🎉 Merged PR [#2886](https://github.com/eclipse-edc/Connector/pull/2886) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. 💪 Opened PR [#99](https://github.com/International-Data-Spaces-Association/ids-specification/pull/99) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 💪 Opened PR [#98](https://github.com/International-Data-Spaces-Association/ids-specification/pull/98) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. ❗️ Closed issue [#54](https://github.com/International-Data-Spaces-Association/ids-specification/issues/54) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. ❗️ Closed issue [#57](https://github.com/International-Data-Spaces-Association/ids-specification/issues/57) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🎉 Merged PR [#85](https://github.com/International-Data-Spaces-Association/ids-specification/pull/85) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
