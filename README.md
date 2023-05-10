@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/International-Data-Spaces-Association/ids-specification/pull/101) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 💪 Opened PR [#100](https://github.com/International-Data-Spaces-Association/ids-specification/pull/100) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#2739](https://github.com/eclipse-edc/Connector/issues/2739) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 🗣 Commented on [#2699](https://github.com/eclipse-edc/Connector/issues/2699) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. ❗️ Closed issue [#2699](https://github.com/eclipse-edc/Connector/issues/2699) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. ❌ Closed PR [#2878](https://github.com/eclipse-edc/Connector/pull/2878) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. 🗣 Commented on [#2878](https://github.com/eclipse-edc/Connector/issues/2878) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 💪 Opened PR [#78](https://github.com/FraunhoferISST/edc-connector/pull/78) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
+4. 💪 Opened PR [#76](https://github.com/FraunhoferISST/edc-connector/pull/76) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
+5. ❌ Closed PR [#75](https://github.com/FraunhoferISST/edc-connector/pull/75) in [FraunhoferISST/edc-connector](https://github.com/FraunhoferISST/edc-connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
