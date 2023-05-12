@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/International-Data-Spaces-Association/ids-specification/issues/99) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🗣 Commented on [#2957](https://github.com/eclipse-edc/Connector/issues/2957) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. ❌ Closed PR [#2957](https://github.com/eclipse-edc/Connector/pull/2957) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. 🗣 Commented on [#2953](https://github.com/eclipse-edc/Connector/issues/2953) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. 🎉 Merged PR [#100](https://github.com/International-Data-Spaces-Association/ids-specification/pull/100) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 💪 Opened PR [#2984](https://github.com/eclipse-edc/Connector/pull/2984) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+2. ❗️ Opened issue [#2982](https://github.com/eclipse-edc/Connector/issues/2982) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+3. 🗣 Commented on [#99](https://github.com/International-Data-Spaces-Association/ids-specification/issues/99) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#2957](https://github.com/eclipse-edc/Connector/issues/2957) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. ❌ Closed PR [#2957](https://github.com/eclipse-edc/Connector/pull/2957) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
