@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3018](https://github.com/eclipse-edc/Connector/issues/3018) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-2. 💪 Opened PR [#3017](https://github.com/eclipse-edc/Connector/pull/3017) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-3. 🗣 Commented on [#3014](https://github.com/eclipse-edc/Connector/issues/3014) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-4. ❗️ Opened issue [#3014](https://github.com/eclipse-edc/Connector/issues/3014) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
-5. 🎉 Merged PR [#2999](https://github.com/eclipse-edc/Connector/pull/2999) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+1. ❗️ Closed issue [#79](https://github.com/International-Data-Spaces-Association/ids-specification/issues/79) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🎉 Merged PR [#101](https://github.com/International-Data-Spaces-Association/ids-specification/pull/101) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🎉 Merged PR [#3025](https://github.com/eclipse-edc/Connector/pull/3025) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+4. ❗️ Opened issue [#3026](https://github.com/eclipse-edc/Connector/issues/3026) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
+5. 🗣 Commented on [#3018](https://github.com/eclipse-edc/Connector/issues/3018) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
