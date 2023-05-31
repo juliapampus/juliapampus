@@ -59,7 +59,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3097](https://github.com/eclipse-edc/Connector/pull/3097) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 2. 🎉 Merged PR [#98](https://github.com/International-Data-Spaces-Association/ids-specification/pull/98) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. ❗️ Closed issue [#97](https://github.com/International-Data-Spaces-Association/ids-specification/issues/97) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🔒 Closed issue [#97](https://github.com/International-Data-Spaces-Association/ids-specification/issues/97) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 4. 🗣 Commented on [#3105](https://github.com/eclipse-edc/Connector/issues/3105) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 5. 🎉 Merged PR [#3106](https://github.com/eclipse-edc/Connector/pull/3106) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 <!--END_SECTION:activity-->
