@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/eclipse-edc/.github/pull/2) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-2. 🔒 Closed issue [#72](https://github.com/International-Data-Spaces-Association/ids-specification/issues/72) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🎉 Merged PR [#112](https://github.com/International-Data-Spaces-Association/ids-specification/pull/112) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🗣 Commented on [#121](https://github.com/International-Data-Spaces-Association/ids-specification/issues/121) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🗣 Commented on [#120](https://github.com/International-Data-Spaces-Association/ids-specification/issues/120) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 🎉 Merged PR [#4](https://github.com/eclipse-edc/.github/pull/4) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+2. 💪 Opened PR [#4](https://github.com/eclipse-edc/.github/pull/4) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+3. 🎉 Merged PR [#3](https://github.com/eclipse-edc/.github/pull/3) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+4. 💪 Opened PR [#3](https://github.com/eclipse-edc/.github/pull/3) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+5. 🎉 Merged PR [#2](https://github.com/eclipse-edc/.github/pull/2) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
