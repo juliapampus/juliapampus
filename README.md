@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/eclipse-edc/.github/issues/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-2. ❌ Reopened PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-3. ❌ Closed PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-4. 💪 Opened PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-5. 🎉 Merged PR [#50](https://github.com/eclipse-edc/.github/pull/50) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+1. 🎉 Merged PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+2. 🗣 Commented on [#52](https://github.com/eclipse-edc/.github/issues/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+3. ❌ Reopened PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+4. ❌ Closed PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+5. 💪 Opened PR [#52](https://github.com/eclipse-edc/.github/pull/52) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
