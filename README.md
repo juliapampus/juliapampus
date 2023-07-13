@@ -57,7 +57,7 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/eclipse-edc/.github/issues/56) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+1. 🗣 Commented on [#56](https://github.com/eclipse-edc/.github/pull/56#issuecomment-1634156344) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 2. 💪 Opened PR [#56](https://github.com/eclipse-edc/.github/pull/56) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 3. 🎉 Merged PR [#74](https://github.com/eclipse-edc/docs/pull/74) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
 4. 🎉 Merged PR [#3295](https://github.com/eclipse-edc/Connector/pull/3295) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
