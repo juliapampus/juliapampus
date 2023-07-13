@@ -57,8 +57,8 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/eclipse-edc/docs/pull/69) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. ❌ Reopened PR [#69](https://github.com/eclipse-edc/docs/pull/69) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+1. 💪 Opened PR [#55](https://github.com/eclipse-edc/.github/pull/55) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+2. 💪 Opened PR [#3295](https://github.com/eclipse-edc/Connector/pull/3295) in [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector)
 3. ❌ Closed PR [#69](https://github.com/eclipse-edc/docs/pull/69) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
 4. ❌ Reopened PR [#69](https://github.com/eclipse-edc/docs/pull/69) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
 5. ❌ Closed PR [#69](https://github.com/eclipse-edc/docs/pull/69) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
