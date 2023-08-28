@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/eclipse-edc/docs/pull/87) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1691211790) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1691193586) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. ❗ Opened issue [#64](https://github.com/eclipse-edc/.github/issues/64) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-5. 🔒 Reopened issue [#62](https://github.com/eclipse-edc/.github/issues/62) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+1. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+2. 🎉 Merged PR [#87](https://github.com/eclipse-edc/docs/pull/87) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+3. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1691211790) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1691193586) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. ❗ Opened issue [#64](https://github.com/eclipse-edc/.github/issues/64) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
