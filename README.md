@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/eclipse-edc/docs/pull/93) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 🔒 Closed issue [#62](https://github.com/eclipse-edc/.github/issues/62) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-3. 🎉 Merged PR [#68](https://github.com/eclipse-edc/.github/pull/68) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-4. 🎉 Merged PR [#90](https://github.com/eclipse-edc/docs/pull/90) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-5. 💪 Opened PR [#69](https://github.com/eclipse-edc/.github/pull/69) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+1. 💪 Opened PR [#151](https://github.com/International-Data-Spaces-Association/ids-specification/pull/151) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🗣 Commented on [#106](https://github.com/International-Data-Spaces-Association/ids-specification/issues/106#issuecomment-1709551646) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🎉 Merged PR [#93](https://github.com/eclipse-edc/docs/pull/93) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+4. 🔒 Closed issue [#62](https://github.com/eclipse-edc/.github/issues/62) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+5. 🎉 Merged PR [#68](https://github.com/eclipse-edc/.github/pull/68) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
