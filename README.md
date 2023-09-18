@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/FraunhoferISST/edc-samples/pull/1) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
-2. 🎉 Merged PR [#101](https://github.com/eclipse-edc/docs/pull/101) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-3. 🎉 Merged PR [#73](https://github.com/eclipse-edc/.github/pull/73) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-4. 🗣 Commented on [#110](https://github.com/International-Data-Spaces-Association/ids-specification/issues/110#issuecomment-1719018777) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🔒 Closed issue [#110](https://github.com/International-Data-Spaces-Association/ids-specification/issues/110) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 🔒 Closed issue [#103](https://github.com/eclipse-edc/Samples/issues/103) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+2. 🎉 Merged PR [#111](https://github.com/eclipse-edc/Samples/pull/111) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+3. 💪 Opened PR [#1](https://github.com/FraunhoferISST/edc-samples/pull/1) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
+4. 🎉 Merged PR [#101](https://github.com/eclipse-edc/docs/pull/101) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+5. 🎉 Merged PR [#73](https://github.com/eclipse-edc/.github/pull/73) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
