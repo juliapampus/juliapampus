@@ -57,11 +57,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/eclipse-edc/Template-Basic/issues/1) in [eclipse-edc/Template-Basic](https://github.com/eclipse-edc/Template-Basic)
-2. 🎉 Merged PR [#2](https://github.com/eclipse-edc/Template-Basic/pull/2) in [eclipse-edc/Template-Basic](https://github.com/eclipse-edc/Template-Basic)
-3. 🎉 Merged PR [#75](https://github.com/eclipse-edc/.github/pull/75) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-4. 🎉 Merged PR [#74](https://github.com/eclipse-edc/.github/pull/74) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
-5. 💪 Opened PR [#74](https://github.com/eclipse-edc/.github/pull/74) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+1. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+2. 🔒 Closed issue [#1](https://github.com/eclipse-edc/Template-Basic/issues/1) in [eclipse-edc/Template-Basic](https://github.com/eclipse-edc/Template-Basic)
+3. 🎉 Merged PR [#2](https://github.com/eclipse-edc/Template-Basic/pull/2) in [eclipse-edc/Template-Basic](https://github.com/eclipse-edc/Template-Basic)
+4. 🎉 Merged PR [#75](https://github.com/eclipse-edc/.github/pull/75) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
+5. 🎉 Merged PR [#74](https://github.com/eclipse-edc/.github/pull/74) in [eclipse-edc/.github](https://github.com/eclipse-edc/.github)
 <!--END_SECTION:activity-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
