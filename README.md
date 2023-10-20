@@ -1,7 +1,3 @@
-![Job Badge](https://img.shields.io/static/v1.svg?style=flat-square&label=working%20as&message=research%20associate&color=blue)
-![Age Badge](https://img.shields.io/static/v1.svg?style=flat-square&label=born%20in&message=1994&color=green)
-![Degree Badge](https://img.shields.io/static/v1.svg?style=flat-square&label=degree&message=M.Sc.&color=yellow)
-
 **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-pampus-0596b3230/)
@@ -51,6 +47,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 
@@ -63,6 +60,8 @@
 4. 🗣 Commented on [#145](https://github.com/International-Data-Spaces-Association/ids-specification/issues/145#issuecomment-1748718604) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 5. 🎉 Merged PR [#165](https://github.com/International-Data-Spaces-Association/ids-specification/pull/165) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
+
+**GitHub Statistics**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juliapampus&ring=26B9D1&fire=26B9D1&currStreakLabel=26B9D1)](https://git.io/streak-stats)
