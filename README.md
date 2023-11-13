@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/International-Data-Spaces-Association/ids-specification/issues/31) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🎉 Merged PR [#174](https://github.com/International-Data-Spaces-Association/ids-specification/pull/174) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795193443) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-4. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795136096) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-5. 🔒 Closed issue [#40](https://github.com/International-Data-Spaces-Association/ids-specification/issues/40) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+2. 🔒 Closed issue [#31](https://github.com/International-Data-Spaces-Association/ids-specification/issues/31) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🎉 Merged PR [#174](https://github.com/International-Data-Spaces-Association/ids-specification/pull/174) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795193443) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+5. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795136096) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
