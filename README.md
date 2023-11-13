@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-2. 🔒 Closed issue [#31](https://github.com/International-Data-Spaces-Association/ids-specification/issues/31) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🎉 Merged PR [#174](https://github.com/International-Data-Spaces-Association/ids-specification/pull/174) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795193443) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-5. 🗣 Commented on [#61](https://github.com/eclipse-edc/Samples/issues/61#issuecomment-1795136096) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+1. 💪 Opened PR [#206](https://github.com/eclipse-edc/MinimumViableDataspace/pull/206) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+2. ❗ Opened issue [#205](https://github.com/eclipse-edc/MinimumViableDataspace/issues/205) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+3. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+4. 🔒 Closed issue [#31](https://github.com/International-Data-Spaces-Association/ids-specification/issues/31) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🎉 Merged PR [#174](https://github.com/International-Data-Spaces-Association/ids-specification/pull/174) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
