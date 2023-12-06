@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/eclipse-edc/docs/pull/115) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
-2. 💪 Opened PR [#206](https://github.com/eclipse-edc/MinimumViableDataspace/pull/206) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-3. ❗ Opened issue [#205](https://github.com/eclipse-edc/MinimumViableDataspace/issues/205) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-4. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-5. 🔒 Closed issue [#31](https://github.com/International-Data-Spaces-Association/ids-specification/issues/31) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 💪 Opened PR [#3](https://github.com/FraunhoferISST/edc-samples/pull/3) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
+2. 🎉 Merged PR [#115](https://github.com/eclipse-edc/docs/pull/115) in [eclipse-edc/docs](https://github.com/eclipse-edc/docs)
+3. 💪 Opened PR [#206](https://github.com/eclipse-edc/MinimumViableDataspace/pull/206) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+4. ❗ Opened issue [#205](https://github.com/eclipse-edc/MinimumViableDataspace/issues/205) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+5. ❌ Reopened PR [#35](https://github.com/eclipse-edc/Samples/pull/35) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
