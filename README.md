@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#182](https://github.com/International-Data-Spaces-Association/ids-specification/issues/182) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🎉 Merged PR [#183](https://github.com/International-Data-Spaces-Association/ids-specification/pull/183) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🔒 Closed issue [#176](https://github.com/International-Data-Spaces-Association/ids-specification/issues/176) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🎉 Merged PR [#181](https://github.com/International-Data-Spaces-Association/ids-specification/pull/181) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 💪 Opened PR [#3](https://github.com/FraunhoferISST/edc-samples/pull/3) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
+1. ❗ Opened issue [#185](https://github.com/International-Data-Spaces-Association/ids-specification/issues/185) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🔒 Closed issue [#182](https://github.com/International-Data-Spaces-Association/ids-specification/issues/182) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🎉 Merged PR [#183](https://github.com/International-Data-Spaces-Association/ids-specification/pull/183) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🔒 Closed issue [#176](https://github.com/International-Data-Spaces-Association/ids-specification/issues/176) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🎉 Merged PR [#181](https://github.com/International-Data-Spaces-Association/ids-specification/pull/181) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
