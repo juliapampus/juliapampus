@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/International-Data-Spaces-Association/ids-specification/issues/191#issuecomment-1864529799) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🗣 Commented on [#192](https://github.com/International-Data-Spaces-Association/ids-specification/issues/192#issuecomment-1864527782) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#184](https://github.com/International-Data-Spaces-Association/ids-specification/pull/184#issuecomment-1864523814) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🎉 Merged PR [#190](https://github.com/International-Data-Spaces-Association/ids-specification/pull/190) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 💪 Opened PR [#190](https://github.com/International-Data-Spaces-Association/ids-specification/pull/190) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 🎉 Merged PR [#216](https://github.com/eclipse-edc/MinimumViableDataspace/pull/216) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+2. 🗣 Commented on [#191](https://github.com/International-Data-Spaces-Association/ids-specification/issues/191#issuecomment-1864529799) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🗣 Commented on [#192](https://github.com/International-Data-Spaces-Association/ids-specification/issues/192#issuecomment-1864527782) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#184](https://github.com/International-Data-Spaces-Association/ids-specification/pull/184#issuecomment-1864523814) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🎉 Merged PR [#190](https://github.com/International-Data-Spaces-Association/ids-specification/pull/190) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
