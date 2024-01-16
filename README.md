@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#198](https://github.com/International-Data-Spaces-Association/ids-specification/issues/198) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. ❌ Reopened PR [#3](https://github.com/FraunhoferISST/edc-samples/pull/3) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
-3. 🎉 Merged PR [#216](https://github.com/eclipse-edc/MinimumViableDataspace/pull/216) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-4. 🗣 Commented on [#191](https://github.com/International-Data-Spaces-Association/ids-specification/issues/191#issuecomment-1864529799) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🗣 Commented on [#192](https://github.com/International-Data-Spaces-Association/ids-specification/issues/192#issuecomment-1864527782) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. ❗ Opened issue [#199](https://github.com/International-Data-Spaces-Association/ids-specification/issues/199) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. ❗ Opened issue [#198](https://github.com/International-Data-Spaces-Association/ids-specification/issues/198) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. ❌ Reopened PR [#3](https://github.com/FraunhoferISST/edc-samples/pull/3) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
+4. 🎉 Merged PR [#216](https://github.com/eclipse-edc/MinimumViableDataspace/pull/216) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+5. 🗣 Commented on [#191](https://github.com/International-Data-Spaces-Association/ids-specification/issues/191#issuecomment-1864529799) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
