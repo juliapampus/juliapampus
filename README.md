@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/International-Data-Spaces-Association/ids-specification/pull/227#issuecomment-1945592485) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🎉 Merged PR [#213](https://github.com/International-Data-Spaces-Association/ids-specification/pull/213) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🔒 Closed issue [#195](https://github.com/International-Data-Spaces-Association/ids-specification/issues/195) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🗣 Commented on [#198](https://github.com/International-Data-Spaces-Association/ids-specification/issues/198#issuecomment-1933689541) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🎉 Merged PR [#215](https://github.com/International-Data-Spaces-Association/ids-specification/pull/215) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 💪 Opened PR [#207](https://github.com/eclipse-edc/Samples/pull/207) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+2. 🔓 Reopened issue [#33](https://github.com/eclipse-edc/Samples/issues/33) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+3. 🗣 Commented on [#227](https://github.com/International-Data-Spaces-Association/ids-specification/pull/227#issuecomment-1945592485) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🎉 Merged PR [#213](https://github.com/International-Data-Spaces-Association/ids-specification/pull/213) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🔒 Closed issue [#195](https://github.com/International-Data-Spaces-Association/ids-specification/issues/195) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
