@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/eclipse-edc/Samples/pull/207) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-2. 🔓 Reopened issue [#33](https://github.com/eclipse-edc/Samples/issues/33) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
-3. 🗣 Commented on [#227](https://github.com/International-Data-Spaces-Association/ids-specification/pull/227#issuecomment-1945592485) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🎉 Merged PR [#213](https://github.com/International-Data-Spaces-Association/ids-specification/pull/213) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🔒 Closed issue [#195](https://github.com/International-Data-Spaces-Association/ids-specification/issues/195) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 🗣 Commented on [#198](https://github.com/International-Data-Spaces-Association/ids-specification/issues/198#issuecomment-1951948129) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🔒 Closed issue [#198](https://github.com/International-Data-Spaces-Association/ids-specification/issues/198) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 💪 Opened PR [#207](https://github.com/eclipse-edc/Samples/pull/207) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+4. 🔓 Reopened issue [#33](https://github.com/eclipse-edc/Samples/issues/33) in [eclipse-edc/Samples](https://github.com/eclipse-edc/Samples)
+5. 🗣 Commented on [#227](https://github.com/International-Data-Spaces-Association/ids-specification/pull/227#issuecomment-1945592485) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
