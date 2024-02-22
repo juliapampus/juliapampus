@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/FraunhoferISST/edc-samples/pull/5) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
-2. ❌ Closed PR [#4](https://github.com/FraunhoferISST/edc-samples/pull/4) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
-3. 🗣 Commented on [#142](https://github.com/International-Data-Spaces-Association/ids-specification/issues/142#issuecomment-1952127278) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🔒 Closed issue [#38](https://github.com/International-Data-Spaces-Association/ids-specification/issues/38) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🔒 Closed issue [#48](https://github.com/International-Data-Spaces-Association/ids-specification/issues/48) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 🔒 Closed issue [#185](https://github.com/International-Data-Spaces-Association/ids-specification/issues/185) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+2. 🎉 Merged PR [#238](https://github.com/International-Data-Spaces-Association/ids-specification/pull/238) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🔒 Closed issue [#242](https://github.com/International-Data-Spaces-Association/ids-specification/issues/242) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🎉 Merged PR [#243](https://github.com/International-Data-Spaces-Association/ids-specification/pull/243) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 💪 Opened PR [#5](https://github.com/FraunhoferISST/edc-samples/pull/5) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
