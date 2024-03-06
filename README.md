@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/International-Data-Spaces-Association/ids-specification/issues/248#issuecomment-1966691893) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🔒 Closed issue [#224](https://github.com/International-Data-Spaces-Association/ids-specification/issues/224) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#244](https://github.com/International-Data-Spaces-Association/ids-specification/issues/244#issuecomment-1961299142) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-4. 🔒 Closed issue [#185](https://github.com/International-Data-Spaces-Association/ids-specification/issues/185) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🎉 Merged PR [#238](https://github.com/International-Data-Spaces-Association/ids-specification/pull/238) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. 💪 Opened PR [#4](https://github.com/FraunhoferISST/edc-mvd/pull/4) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+2. ❌ Closed PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+3. 💪 Opened PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+4. 🗣 Commented on [#248](https://github.com/International-Data-Spaces-Association/ids-specification/issues/248#issuecomment-1966691893) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+5. 🔒 Closed issue [#224](https://github.com/International-Data-Spaces-Association/ids-specification/issues/224) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
