@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/FraunhoferISST/edc-mvd/pull/4) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
-2. ❌ Closed PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
-3. 💪 Opened PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
-4. 🗣 Commented on [#248](https://github.com/International-Data-Spaces-Association/ids-specification/issues/248#issuecomment-1966691893) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-5. 🔒 Closed issue [#224](https://github.com/International-Data-Spaces-Association/ids-specification/issues/224) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+1. ❌ Reopened PR [#5](https://github.com/FraunhoferISST/edc-samples/pull/5) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
+2. 💪 Opened PR [#4](https://github.com/FraunhoferISST/edc-mvd/pull/4) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+3. ❌ Closed PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+4. 💪 Opened PR [#3](https://github.com/FraunhoferISST/edc-mvd/pull/3) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+5. 🗣 Commented on [#248](https://github.com/International-Data-Spaces-Association/ids-specification/issues/248#issuecomment-1966691893) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
