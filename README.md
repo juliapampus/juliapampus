@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011565096) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-2. ❗ Opened issue [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-3. 🗣 Commented on [#239](https://github.com/eclipse-edc/MinimumViableDataspace/pull/239#issuecomment-1999589013) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
-4. ❌ Reopened PR [#5](https://github.com/FraunhoferISST/edc-samples/pull/5) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
-5. 💪 Opened PR [#4](https://github.com/FraunhoferISST/edc-mvd/pull/4) in [FraunhoferISST/edc-mvd](https://github.com/FraunhoferISST/edc-mvd)
+1. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011621201) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+2. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011565096) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+3. ❗ Opened issue [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+4. 🗣 Commented on [#239](https://github.com/eclipse-edc/MinimumViableDataspace/pull/239#issuecomment-1999589013) in [eclipse-edc/MinimumViableDataspace](https://github.com/eclipse-edc/MinimumViableDataspace)
+5. ❌ Reopened PR [#5](https://github.com/FraunhoferISST/edc-samples/pull/5) in [FraunhoferISST/edc-samples](https://github.com/FraunhoferISST/edc-samples)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
