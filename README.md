@@ -54,11 +54,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/International-Data-Spaces-Association/ids-specification/pull/256#issuecomment-2012547554) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-2. 🗣 Commented on [#255](https://github.com/International-Data-Spaces-Association/ids-specification/issues/255#issuecomment-2012312889) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
-3. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011621201) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-4. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011565096) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
-5. ❗ Opened issue [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+1. 🎉 Merged PR [#167](https://github.com/eclipse-edc/DataDashboard/pull/167) in [eclipse-edc/DataDashboard](https://github.com/eclipse-edc/DataDashboard)
+2. 🗣 Commented on [#256](https://github.com/International-Data-Spaces-Association/ids-specification/pull/256#issuecomment-2012547554) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+3. 🗣 Commented on [#255](https://github.com/International-Data-Spaces-Association/ids-specification/issues/255#issuecomment-2012312889) in [International-Data-Spaces-Association/ids-specification](https://github.com/International-Data-Spaces-Association/ids-specification)
+4. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011621201) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
+5. 🗣 Commented on [#1145](https://github.com/eclipse-tractusx/tractusx-edc/issues/1145#issuecomment-2011565096) in [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc)
 <!--END_SECTION:activity-->
 
 **GitHub Statistics**
