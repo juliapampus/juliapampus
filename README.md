@@ -1,7 +1,4 @@
-**Contact**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-pampus-0596b3230/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Julia-Pampus)
+![Metrics](/metrics.svg)
 
 **Worked with**
 
