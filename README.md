@@ -1,6 +1,11 @@
-![Metrics](/metrics.svg)
+### Activities
 
-**Worked with**
+<p align="center">
+    <img src="/habits.svg" alt="Metrics 1" width="49%">
+    <img src="/activity.svg" alt="Metrics 2" width="49%">
+</p>
+
+### Worked with
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white)
