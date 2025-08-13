@@ -1,5 +1,5 @@
 <p align="center">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true" width="49%"/>
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true" width="30%"/>
     <img class="img" src="/spotify.svg" width="49%">
 </p>
 
