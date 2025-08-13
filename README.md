@@ -1,8 +1,10 @@
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Activities
 
 <p align="center">
-    <img src="/habits.svg" alt="Metrics 1" width="49%">
-    <img src="/activity.svg" alt="Metrics 2" width="49%">
+    <img src="/activity.svg" alt="Activities" width="49%">
+    <img src="/habits.svg" alt="Habits" width="49%">
 </p>
 
 ### Worked with
@@ -52,5 +54,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)

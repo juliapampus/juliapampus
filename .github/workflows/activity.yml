@@ -21,4 +21,4 @@ jobs:
           user: juliapampus
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 8
+          plugin_activity_limit: 5
