@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Random song from playlist
+        with:
+          filename: spotify.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.PLAYLIST_URL }}
