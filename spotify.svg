@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wenn Die Welt Untergeht</div>
-                                    <div class="artist">Tom Twers</div>
+                                    <div class="name">She Knows It</div>
+                                    <div class="artist">Steven Rodriguez</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Aus dem Beton</div>
-                                    <div class="artist">Taby Pilgrim</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Die With A Smile</div>
-                                    <div class="artist">Lady Gaga, Bruno Mars</div>
+                                    <div class="name">Zimmerpflanze</div>
+                                    <div class="artist">RIAN</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">Against Me</div>
                                     <div class="artist">Scout Speer, Austin Giorgio</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Mitte 20</div>
+                                    <div class="artist">EKAFFKIEZ</div>
                                 </div>
                             </div>
                         </div>
