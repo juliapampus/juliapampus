@@ -1,6 +1,6 @@
 <p align="left">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=26B9D1&border_color=F1F0F0&border_radius=3&show_icons=true&icon_color=26B9D1&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true" width="35%"/>
-    <img class="img" src="/spotify.svg" width="50%">
+    <a href="https://www.credly.com/badges/6d30d9eb-7866-4fa5-a2ef-134fcd46cd24"><img src="https://images.credly.com/images/03205ada-b7e1-4e5b-bddf-15c5c29f9ddf/image.png" width="150" height="150"></a>
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=juliapampus&title_color=F79422&hide_border=true&show_icons=true&icon_color=F79422&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true" height="150"/>
 </p>
 
 ### Worked with
